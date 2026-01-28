@@ -17,6 +17,4 @@ Bu proje, **ReactJS** ve **Vite** kullanılarak geliştirilmiş, modern arayüzl
 * **Düzenleme (Edit):** Mevcut görevleri "Kaydet/Düzenle" butonuyla güncelleyin.
 * **Silme:** Tamamlanan veya iptal edilen görevleri listeden kaldırın.
 * **Responsive Tasarım:** Tailwind CSS ile mobil ve masaüstü uyumlu arayüz.
-* **Kalıcı Veri:** LocalStorage desteği ile sayfa yenilense bile verileriniz kaybolmaz.
-
 ---
